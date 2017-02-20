@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lighter_gray">#ddd</color>
+    <color name="darker_gray">#aaa</color>
+
+    <color name="vistablue">#8AD297</color>
+    <color name="vistablue_active">#5ABF6C</color>
+    <color name="hitpink">#F9A883</color>
+    <color name="hitpink_active">#F79060</color>
+    <color name="montecarloblue">#88CFCC</color>
+    <color name="montecarloblue_active">#63C0BD</color>
+    <color name="rajahorange">#F7C56B</color>
+    <color name="rajahorange_active">#F5B94E</color>
+    <color name="oldrose">#D2A596</color>
+    <color name="oldrose_active">#CA9483</color>
+    <color name="vikingblue">#67BDDE</color>
+    <color name="vikingblue_active">#31A6D3</color>
+    <color name="celerygreen">#9CCF5A</color>
+    <color name="celerygreen_active">#8BC73D</color>
+    <color name="rockblue">#9AB4CF</color>
+    <color name="rockblue_active">#87A6C6</color>
+    <color name="sandorange">#E2C38A</color>
+    <color name="sandorange_active">#D6A858</color>
+    <color name="eastsidemagenta">#B29FD2</color>
+    <color name="eastsidemagenta_active">#997FC3</color>
+    <color name="calicobeige">#E2C490</color>
+    <color name="calicobeige_active">#DDB97B</color>
+    <color name="bouldergray">#7B7B7B</color>
+    <color name="bouldergray_active">#ADADAD</color>
+</resources>
